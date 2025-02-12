@@ -1,6 +1,6 @@
-# Example JAVA WEBAPP REPO
+# Example WEBAPP REPO USING NGINX
 # Workflows
 
 ![workflows](static/workflows.png)
 # Deploy
-- Using Blue/Green Deployment to Achieve Zero Downtime
+- Using `Docker compose` & `Docker Rollout` to Achieve Zero Downtime
