@@ -1,4 +1,4 @@
-# Example JAVA WEBAPP REPO
+# Example WEBAPP REPO USING NGINX
 # Workflows
 
 ![workflows](static/workflows.png)
